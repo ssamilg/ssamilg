@@ -13,7 +13,7 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://nodejs.org/static/images/logo.svg" height="32px"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" height="32px"/> </a> 
 <a href="https://www.heroku.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" height="32px"/> </a> 
-<a href="https://sass-lang.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" height="32px"/> </a> 
+<a href="https://sass-lang.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo.svg" height="32px"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" height="32px"/> </a> 
 <br/>
 
