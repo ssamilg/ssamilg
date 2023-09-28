@@ -19,9 +19,11 @@
 ### Here is some stats for you.
 </div>
 
-<p align="left">
+<p align="center">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ssamilg&show_icons=true&theme=dark&hide_border=true&title_color=2a9d8f&icon_color=2a9d8f" />
+<!--
   <img width="49.5%" src="https://streak-stats.demolab.com/?user=ssamilg&theme=dark&hide_border=true&ring=006466&fire=2a9d8f&currStreakLabel=2a9d8f" />
+-->
 </p>
 
 <!--
