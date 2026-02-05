@@ -16,17 +16,3 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" height="32px"/> </a> 
 <br/>
 
-### Here is some stats for you.
-</div>
-
-<p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ssamilg&show_icons=true&theme=dark&hide_border=true&title_color=2a9d8f&icon_color=2a9d8f" />
-<!--
-  <img width="49.5%" src="https://streak-stats.demolab.com/?user=ssamilg&theme=dark&hide_border=true&ring=006466&fire=2a9d8f&currStreakLabel=2a9d8f" />
--->
-</p>
-
-<!--
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ssamilg&custom_title=Samil%27s%20Contribution%20Graph&theme=xcode&bg_color=151515&hide_border=true&line=006466&point=2a9d8f" />
--->
-
